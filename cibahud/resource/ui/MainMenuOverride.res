@@ -152,7 +152,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"wrap"										"0"
-		"labelText"									"By"
+		"labelText"									"edited"
 		"textAlignment"								"west"	
 	}
 	
@@ -173,7 +173,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"wrap"										"0"
-		"labelText"									"Hypnotize"
+		"labelText"									"hypnotizehud"
 		"textAlignment"								"west"	
 	}
 	
